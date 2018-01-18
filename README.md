@@ -120,6 +120,6 @@ http://www.makercase.com/
 ![images](images/蜂鸣器测试.jpg)
 >蜂鸣器测试过程
 ![images](images/小灯测试.jpg)
->小灯测试过程
+###### 小灯测试过程
 ![images](images/成品.jpg)
 >成品!
